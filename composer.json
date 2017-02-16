@@ -1,0 +1,21 @@
+{
+    "name": "kc/yii2-checkbox",
+    "description": "The Checkbox widget turns checkboxes buttons into toggle switchinputes.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","checkbox"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Nivedya K.C",
+            "email": "nivedyakc@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kc\\checkbox\\": ""
+        }
+    }
+}
